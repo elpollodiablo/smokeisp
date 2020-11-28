@@ -1,17 +1,10 @@
-*** Targets ***
-
-probe = FPing
-
-menu = Top
-title = Network Latency Grapher
-remark = Pinging the world
-
-+ Austria
++ Europe
 menu = Austria
 title = Austrian ISPs
 
-++ B2C
+++ Austria
 
+# B2C
 +++ AS6830
 menu = UPC Broadband GmbH AS6830
 title = at-vie-sk11-pe01-vl-2044.upc.at
@@ -57,8 +50,8 @@ menu = SALZBURG AG fur Energie, Verkehr und Telekommunikation AS8445
 title = www.salzburg-ag.at
 host = 89.26.23.81
 
-++ B2B
-++ AS47692
+# B2B
++++ AS47692
 menu = Nessus Internet Dienstleistungs GmbH AS47692
 title = www.nessus.at
 host = 77.244.244.4
@@ -68,9 +61,7 @@ menu = APA - IT Informations Technologie GmbH AS5403
 title = www.apa.at
 host = 194.232.105.55
 
-
-++ Academia
-
+# Academia
 +++ AS760
 menu = University of Vienna AS760
 title = www.univie.ac.at
@@ -101,9 +92,9 @@ menu = Montanuniversitaet Leoben AS1112
 title = www.unileoben.ac.at
 host = 193.171.87.161
 
+++ Germany
 
-+ Germany
-++ B2C
+# B2C
 +++ AS3211
 menu = Arcor AG & Co AS3211
 title = www.arcor-ip.net
@@ -129,32 +120,25 @@ menu = R-KOM GmbH & Co KG AS12611
 title = www.r-kom.de
 host = 212.77.161.20
 
-+++
-menu =
-title =
-host =
-
-++ B2B
-
+# B2B
 +++ AS24940
 menu = Hetzner Online AG AS24940
 title = www.hetzner.de
 host = 213.133.107.227
 
-+ Ireland
+++ Ireland
 
-++ B2C
+# B2C
 +++ AS1213
 menu = HEAnet AS1213
 title = www.heanet.ie
 host = 193.1.201.145
 
-
-+ Netherlands
-++ B2C
+++ Netherlands
+# B2C
 +++ AS3265
 menu = XS4ALL Internet BV AS3265
-title = www.xs4all.nl 
+title = www.xs4all.nl
 host = 194.109.6.92
 
 +++ AS6830
@@ -162,8 +146,9 @@ menu = UPC Broadband Operations B.V. AS6830
 title = www.upclive.com
 host = 213.46.242.73
 
-+ Poland
-++ B2C
+++ Poland
+
+# B2C
 +++ AS5617
 menu = PTK Centertel AS5617
 title = www.orange.pl
