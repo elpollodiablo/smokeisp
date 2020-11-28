@@ -1,0 +1,185 @@
+*** Targets ***
+
+probe = FPing
+
+menu = Top
+title = Network Latency Grapher
+remark = Pinging the world
+
++ Austria
+menu = Austria
+title = Austrian ISPs
+
+++ B2C
+
++++ AS6830
+menu = UPC Broadband GmbH AS6830
+title = at-vie-sk11-pe01-vl-2044.upc.at
+host = 84.116.228.133
+
++++ AS16305
+menu = A1 Telekom Austria AG AS16305
+title = www.a1.net
+host = 80.75.46.215
+
++++ AS8447
+menu = A1 Telekom Austria AG AS8447
+title = www.telekom.at
+host = 213.33.99.173
+
++++ AS8437
+menu = TELE2 Telecommunication GmbH AS8437
+title = www.tele2.at
+host = 212.152.190.190
+
++++ AS25255
+menu = H3G Austria GmbH AS25255
+title = www.drei.at
+host = 213.94.80.187
+
++++ AS8387
+menu = T-Mobile Austria GesmbH AS8387
+title = www.t-mobile.at
+host = 212.166.122.42
+
++++ AS8339
+menu = Kabelsignal AG AS8339
+title = www.kabelplus.at
+host = 195.202.168.87
+
++++ AS12605
+menu = LIWEST Kabelmedien GmbH AS12605
+title = www.liwest.at
+host = 212.33.32.144
+
++++ AS8445
+menu = SALZBURG AG fur Energie, Verkehr und Telekommunikation AS8445
+title = www.salzburg-ag.at
+host = 89.26.23.81
+
+++ B2B
+++ AS47692
+menu = Nessus Internet Dienstleistungs GmbH AS47692
+title = www.nessus.at
+host = 77.244.244.4
+
++++ AS5403
+menu = APA - IT Informations Technologie GmbH AS5403
+title = www.apa.at
+host = 194.232.105.55
+
+
+++ Academia
+
++++ AS760
+menu = University of Vienna AS760
+title = www.univie.ac.at
+host = 131.130.70.8
+
++++ AS679
+menu = Technische Universitat Wien AS679
+title = tuwien.ac.at
+host = 128.130.35.76
+
++++ AS1114
+menu = Universitaet Graz AS1114
+title = www.uni-graz.at
+host = 143.50.174.42
+
++++ AS2494
+menu = Medical University Vienna
+title = www.meduniwien.ac.at AS2494
+host = 149.148.224.122
+
++++ AS1117
+menu = Universitaet fuer Bodenkultur, Wien AS1117
+title = www.boku.ac.at
+host = 141.244.20.75
+
++++ AS1112
+menu = Montanuniversitaet Leoben AS1112
+title = www.unileoben.ac.at
+host = 193.171.87.161
+
+
++ Germany
+++ B2C
++++ AS3211
+menu = Arcor AG & Co AS3211
+title = www.arcor-ip.net
+host = 145.253.3.75
+
++++ AS3320
+menu = Deutsche Telekom AG AS3320
+title = pns.dtag.de
+host = 194.25.0.125
+
++++ AS31334
+menu = Kabel Deutschland Breitband Service GmbH AS31334
+title = www.kabeldeutschland.de
+host = 83.169.145.7
+
++++ AS8767
+menu = M-net Telekommunikations GmbH AS8767
+title = ns1.m-online.net
+host = 212.18.0.8
+
++++ AS12611
+menu = R-KOM GmbH & Co KG AS12611
+title = www.r-kom.de
+host = 212.77.161.20
+
++++
+menu =
+title =
+host =
+
+++ B2B
+
++++ AS24940
+menu = Hetzner Online AG AS24940
+title = www.hetzner.de
+host = 213.133.107.227
+
++ Ireland
+
+++ B2C
++++ AS1213
+menu = HEAnet AS1213
+title = www.heanet.ie
+host = 193.1.201.145
+
+
++ Netherlands
+++ B2C
++++ AS3265
+menu = XS4ALL Internet BV AS3265
+title = www.xs4all.nl 
+host = 194.109.6.92
+
++++ AS6830
+menu = UPC Broadband Operations B.V. AS6830
+title = www.upclive.com
+host = 213.46.242.73
+
++ Poland
+++ B2C
++++ AS5617
+menu = PTK Centertel AS5617
+title = www.orange.pl
+host = 80.48.169.1
+
++++ AS43447
+menu = PTK-Centertel DialUP AS43447
+title = dns-pub01.centertel.pl
+host = 217.116.100.65
+
++++ AS5617
+menu = Telekomunikacja Polska S.A. AS5617
+title = lg.tpnet.pl
+host = 80.50.248.79
+
++++ AS12741
+menu = Telefonia Dialog S.A. - Dialog Telecom AS12741
+title = dns.legnica.dialog.net.pl
+host = 217.30.137.200
